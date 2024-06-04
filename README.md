@@ -17,6 +17,6 @@
 
 - 📫 Reach me at: *kunalrajput15112000@gmail.com*
 
-- 📄 Check my current: [Resume](https://drive.google.com/file/d/1dQXgUbpjhim2NzuooyQJJHfkh-1u1XOJ/view?usp=drive_link)
+- 📄 Check my current: [Resume](https://drive.google.com/file/d/1e-1vK4Tf_VgleBz5X2NkiYBsq7iYgh_5/view?usp=drive_link)
 
 <h4>Thank you!<h4>
