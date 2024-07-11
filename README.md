@@ -2,7 +2,6 @@
 <h3 align="center">MERN Stack Developer and Mobile Application Developer </h3>
 
 <img align="right" alt="Coding" width="380" src="https://media1.tenor.com/m/GVNvXyvzxV0AAAAd/working-jabrils.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vdsdsv&label=Profile%20views&color=0e75b6&style=flat" alt="Kunal" /> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/kunalrajput007/" target="blank"><img src="https://img.shields.io/twitter/follow/Kunal?logo=linkedin&style=for-the-badge" alt="Kunal" /></a> </p>
 
 - 🔭 Currently pursuing a *Master's Degree in Computer Science* at *Illinois Institute of Technology, Chicago.*
