@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently focusing on *Machine Learning LLM models* and and *Web Development*.
 
-- 🤝 I’m looking for *Co-op 2024 Internship* roles as an Software Developer.
+- 🤝 I’m looking for *Co-op 2024 Internship* roles as a Software Developer.
 
 - 👨‍💻 Do visit my [Portfolio](https://kunalrajput7.github.io)
 
