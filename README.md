@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋, I'm Kunal Rajput</h1>
-<h3 align="center">MERN Stack Developer and Mobile Application Developer </h3>
+<h3 align="center">Full Stack Developer and Mobile Application Developer </h3>
 
 <img align="right" alt="Coding" width="380" src="https://media1.tenor.com/m/GVNvXyvzxV0AAAAd/working-jabrils.gif">
 <p align="left"> <a href="https://www.linkedin.com/in/kunalrajput007/" target="blank"><img src="https://img.shields.io/twitter/follow/Kunal?logo=linkedin&style=for-the-badge" alt="Kunal" /></a> </p>
 
-- 🔭 Currently pursuing a *Master's Degree in Computer Science* at *Illinois Institute of Technology, Chicago.*
+- 🔭 Pursuing a *Master's Degree in Computer Science* at *Illinois Institute of Technology, Chicago.*
 
-- 🌱 I’m currently learning *Cloud Technologies* and *Web Development*.
+- 🌱 I’m currently focusing on *Machine Learning LLM models* and and *Web Development*.
 
-- 🤝 I’m looking for *Internships / Co-op 2024* roles.
+- 🤝 I’m looking for *Co-op 2024 Internship* roles as an Software Developer.
 
 - 👨‍💻 Do visit my [Portfolio](https://kunalrajput7.github.io)
 
